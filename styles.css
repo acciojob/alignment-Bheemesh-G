@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.middle{
+	border: 1px solid black;
+}
+.header{
+	text-align : center;
+}
